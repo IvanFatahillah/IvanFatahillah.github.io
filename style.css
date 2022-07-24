@@ -11,3 +11,11 @@
 section {
     padding-top: 5rem;
 }
+
+#card1 {
+    border-color: #ffc107;
+}
+
+.card-header {
+    background-color: #ffc107;
+}
